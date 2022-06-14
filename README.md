@@ -24,6 +24,9 @@
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/CamilaLima21/count.svg" /></p>
   
    ![Snake animation](https://github.com/CamilaLima21/CamilaLima21/blob/output/github-contribution-grid-snake.svg)
+  
+  
+ ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95050431/173693226-736a4b60-8090-4b78-b101-c188530e48ef.gif) 
 
 <!--
 **CamilaLima21/CamilaLima21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
