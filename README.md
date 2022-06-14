@@ -8,7 +8,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Camila-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
+    <!--<img align="center" alt="Camila-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">-->
     <img align="right" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95050431/173490868-144deb3d-1fbf-42d5-b6ce-38361e92590a.gif">
   </div> 
   
